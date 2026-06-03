@@ -7,8 +7,7 @@ cities:
   - fr/nantes
 cover: https://avatars.githubusercontent.com/u/1233106
 contacts:
-  x: geeyom
-  mail: geeyom12@gmail.com
+  mail: contact@simbios.fr
   github: guillaumew
   linkedin: guillaumewolf
 websites:
@@ -17,4 +16,6 @@ websites:
 layout: speaker
 ---
 
-Pour réduire l'empreinte environnementale du numérique
+Consultant et formateur Green IT
+Ecoconception - Numérique Responsable
+Réduire l'empreinte environnementale du numérique
